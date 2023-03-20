@@ -1,0 +1,5 @@
+python detect.py --weights yolov7-tiny.pt --conf 0.25 --img-size 640 --source "D:\Freelancing\Vehicle YOLO\@@ Desktop R\LiveH264_1.mp4" --view-img
+
+
+
+python detect.py --weights yolov7-tiny.pt --conf 0.25 --img-size 640 --source "rtsp://adminttpl:Tech@ttpl159@182.71.126.154:3554/LiveH264_1" --view-img

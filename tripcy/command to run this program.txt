@@ -1,0 +1,2 @@
+
+python detect.py --weights "E:\Programming\YOLO_Implementation\YoloV7\yolov7.pt" --conf 0.25 --img-size 640 --source "D:\Freelancing\Vehicle YOLO\results\test videos 0\videoplayback (2).mp4" --view-img
