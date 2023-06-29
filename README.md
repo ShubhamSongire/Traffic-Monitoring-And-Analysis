@@ -71,6 +71,12 @@ The number plate detection model identifies traffic rule violators by capturing 
 
 <a href="https://youtu.be/jjlz0LPomio"><img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" height=300 width=220> <br> Video Link </a>
 
+<a href="https://youtu.be/jjlz0LPomio">
+    <img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" alt="Road Traffic Monitoring Video" height="300" width="220">
+    <br>
+    Video Link
+  </a>
+
 ## Dataset
 
 The models were trained on a labeled dataset comprising 7,443 images. The dataset includes annotations for various use cases.
