@@ -65,9 +65,7 @@ The fog detection model, trained with 94% accuracy using a CNN, helps drivers st
 
 This model detects and notifies traffic authorities about any stopped vehicles on the road, assisting them in taking necessary actions to avoid traffic congestion and accidents.
 
-### 8
-
-/8) Number Plate Detection
+### 8/8) Number Plate Detection
 
 The number plate detection model identifies traffic rule violators by capturing their number plates and issuing e-challans for traffic fines. It improves traffic safety and ensures compliance with traffic laws.
 
