@@ -1,3 +1,0 @@
-python detect.py --weights "D:\Freelancing\Vehicle YOLO\plates\yolov7\yolov7-custom\runs\train\yolov7-plate5\weights\best.pt" --conf 0.25 --img-size 640 --source "D:\Freelancing\Vehicle YOLO\results\test videos 2\0.mp4" --view-img
-
-changes in plots and detect.py
