@@ -69,14 +69,6 @@ This model detects and notifies traffic authorities about any stopped vehicles o
 
 The number plate detection model identifies traffic rule violators by capturing their number plates and issuing e-challans for traffic fines. It improves traffic safety and ensures compliance with traffic laws.
 
-<a href="https://youtu.be/jjlz0LPomio"><img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" height=300 width=220> <br> Video Link </a>
-
-<a href="https://youtu.be/jjlz0LPomio">
-    <img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" alt="Road Traffic Monitoring Video" height="300" width="220">
-    <br>
-    Video Link
-  </a>
-
 ## Dataset
 
 The models were trained on a labeled dataset comprising 7,443 images. The dataset includes annotations for various use cases.
