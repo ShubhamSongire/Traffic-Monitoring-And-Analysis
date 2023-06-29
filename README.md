@@ -1,6 +1,6 @@
 # Traffic-Monitoring-And-Analysis
 
-![Road Traffic Monitoring](https://static.vecteezy.com/system/resources/previews/014/349/119/original/traffic-monitoring-chart-analysis-seo-filled-outline-icon-vector.jpg){:height="20px" width="20px"}.
+<img src="https://static.vecteezy.com/system/resources/previews/014/349/119/original/traffic-monitoring-chart-analysis-seo-filled-outline-icon-vector.jpg" width="20" height="20">
 
 Addressing the daily challenge of traffic management through technology and real-time analysis, this project focuses on road traffic monitoring and analysis using YOLOv7 and DeepSort. The objective is to enhance road safety by developing object detection and tracking models that can be deployed using embedded edge devices with CCTV cameras placed alongside roads.
 
