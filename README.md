@@ -2,7 +2,7 @@
 
 Addressing the daily challenge of traffic management through technology and real-time analysis, this project focuses on road traffic monitoring and analysis using YOLOv7 and DeepSort. The objective is to enhance road safety by developing object detection and tracking models that can be deployed using embedded edge devices with CCTV cameras placed alongside roads.
 
-<img src="https://static.vecteezy.com/system/resources/previews/014/349/119/original/traffic-monitoring-chart-analysis-seo-filled-outline-icon-vector.jpg" width="80" height="80">
+<img src="https://static.vecteezy.com/system/resources/previews/014/349/119/original/traffic-monitoring-chart-analysis-seo-filled-outline-icon-vector.jpg" width="120" height="200">
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ This model detects and notifies traffic authorities about any stopped vehicles o
 
 The number plate detection model identifies traffic rule violators by capturing their number plates and issuing e-challans for traffic fines. It improves traffic safety and ensures compliance with traffic laws.
 
-<a href="https://youtu.be/jjlz0LPomio"><img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" height=80 width=80></a>
+<a href="https://youtu.be/jjlz0LPomio"><img src="https://github.com/ShubhamSongire/Traffic-Monitoring-And-Analysis/assets/68246393/44ed4770-31be-45a1-91a7-f332d8d9f6dd" height=80 width=80> <br> Video Link </a>
 
 ## Dataset
 
